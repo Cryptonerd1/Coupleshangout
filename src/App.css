@@ -1,0 +1,15 @@
+
+.hangoutCard{
+overflow: hidden  ;
+}
+
+.hangoutCard .image-col{
+  
+overflow: hidden;
+}
+.hangoutCard .image-col img{
+  /* width: 200px; */
+  /* margin-left: -50px; */
+  /* height: 500px;*/
+  max-height: 300px; 
+}
